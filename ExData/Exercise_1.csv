@@ -1,0 +1,71 @@
+﻿Fulltime Business Week Ranking,School Name,State,Type,Enrollment,Avg GMAT,"Resident Tuition, Fees",Pct International,Pct Female,Pct Asian American,Pct Minority,Pct with job offers,Avg starting base salary
+1,University of Chicago,Illinois,Private,1144,713,97165,35,35,16,7,92,107091
+2,Harvard University,Massachusetts,Private,1801,720,101660,33,38,,,94,124378
+3,Northwestern University,Illinois,Private,1200,711,93918,34,36,25,13,95,108064
+4,University of Pennsylvania,Pennsylvania,Private,1651,714,104410,44,36,7.8,9,89,112186
+5,University of Michigan,Michigan,Public,898,706,80879,27,34,21,13,89,103608
+6,Stanford University,California,Private,739,726,97842,43,36,,,94,121171
+7,Columbia University,New York,Private,1234,,94104,33,32,12,13,87,107450
+8,Duke University,North Carolina,Private,878,696,95000,40,39,19,12,92,100136
+9,Massachusetts Institute of Technology,Massachusetts,Private,780,708,46784,36,35,14,9,92,111184
+10,University of California-Berkeley,California,Private,500,714,66475,39,30,29,4,90,108967
+11,Cornell University,New York,Public,593,694,93000,27,39,15,7,84,100700
+12,Dartmouth College,New Hampshire,Private,506,712,91905,31,33,8,13,94,110305
+13,New York University,New York,Private,832,708,89184,32,41,14,15,84,101063
+14,UCLA,California,Public,731,711,66590,32,34,14,6,80,101306
+15,Indiana University,Indiana,Public,473,663,40882,37,26,12,13,88,92000
+16,University of Virginia,Virginia,Public,644,693,84000,30,29,6,9,92,103963
+17,University of North Carolina-Chapel Hill,North Carolina,Public,562,678,43503,32,32,5,10,82,95647
+18,Southern Methodist University,Texas,Private,201,642,81384,18,28,7,8,80,84828
+19,Carnegie Mellon University,Pennsylvania,Private,392,690,93840,23,21,25,12,96,103012
+20,University of Notre Dame,Indiana,Private,316,677,77340,28,24,10,9,80,89660
+21,University of Texas -- Austin,Texas,Public,552,681,48800,24,31,11,11,88,96537
+22,Brigham Young University,Utah,Private,315,673,18530,10,20,,5,78,88958
+23,Emory University,Georgia,Private,373,680,82856,42,39,8,14,82,93620
+24,Yale University,Connecticut,Private,382,718,93098,28,34,14,11,89,99562
+25,University of Southern California,California,Private,525,692,88800,34,29,23,6,88,91863
+26,University of Maryland,Maryland,Public,257,660,60583,35,29,18,11,81,85225
+27,University of Washington,Washington,Public,225,688,43556,18,36,15,5,85,86426
+28,Washington University,Missouri,Private,294,681,83172,34,37,7,12,81,90775
+29,Georgia Institute of Technology,Georgia,Public,156,681,17816,19,27,7,5,98,93403
+30,Vanderbilt University,Tennessee,Private,382,656,81076,18,25,7,6,83,89891
+Second Tier,Arizona State University,Arizona,Public,159,676,34082,26,25,3,4,80,86065
+Second Tier,Babson College,Massachusetts,Private,387,630,72184,41,37,14,11,62,92296
+Second Tier,Boston University ,Massachusetts,Private,315,680,73996,32,45,14,8,88,89543
+Second Tier,George Washington University,Washington D.C.,Private,201,643,65550,27,45,9,4,68,83746
+Second Tier,Georgetown University,Washington D.C.,Private,521,678,83868,24,30,17,5,91,94137
+Second Tier,Illinois at Urbana-Champaign,Illinois,Public,198,639,42004,45,34,16,15,75,90317
+Second Tier,Michigan State University ,Michigan,Public,214,642,40937,30,22,22,13,86,90951
+Second Tier,Ohio State University,Ohio,Public,274,674,47277,33,27,13,7,79,89584
+Second Tier,Purdue University,Indiana,Public,293,662,37700,45,27,13,6,83,83614
+Second Tier,Thunderbird School of Global Management,Arizona,Private,589,610,78255,45,32,7,9,51,84295
+Second Tier,"University of California, Irvine",California,Public,204,675,55629,40,37,18,1,62,81500
+Second Tier,University of Connecticut,Connecticut,Public,119,627,21188,38,25,5,9,57,95120
+Second Tier,University of Iowa,Iowa,Public,140,653,29224,38,29,2.4,4.8,86,82380
+Second Tier,University of Minnesota ,Minnesota,Public,199,663,58387,19,32,6,5,84,87539
+Second Tier,University of Rochester,New York,Private,350,675,80010,55,33,15,26,80,18712
+Not Ranked,American University,Washington D.C.,Private,137,,,,,,,,
+Not Ranked,Boston College,Massachusetts,Private,202,661,66604,20,36,9,3.5,83,87140
+Not Ranked,Case Western Reserve University,Ohio,Private,163,606,70666,46,37,7,22,60,84671
+Not Ranked,College of William and Mary,Virginia,Public,175,601,42800,37,30,0,9,88,78222
+Not Ranked,Florida International University,Florida,Public,84,560,30490,39,49,4,59,37,49770
+Not Ranked,Fordham University,New York,Private,337,610,69878,20,29,9,5,,77659
+Not Ranked,Howard University,Washington D.C.,Private,86,557,36380,27,56,3,97,78,80525
+Not Ranked,Northeastern University,Massachusetts,Private,154,609,72198,41,45,10,3,68,72061
+Not Ranked,Pepperdine University,California,Private,294,637,73630,36,43,25,4,34,75711
+Not Ranked,Rice University,Texas,Private,250,667,76500,29,37,18,11,74,93006
+Not Ranked,Rutgers University,New Jersey,Private,160,643,45061,27,38,19,9,62,83092
+Not Ranked,Texas A & M,Texas,Public,164,643,25603,26,21,13,16,91,86700
+Not Ranked,Texas Christian University,Texas,Private,94,610,58500,25,26,,6,65,71153
+Not Ranked,The Pennsylvania State University,Pennsylvania,Public,187,646,38036,33,38,8,13,91,87444
+Not Ranked,The University of Tennessee at Knoxville,Tennessee,Public,151,615,23612,12,25,0,6,87,71932
+Not Ranked,Tulane University,Louisiana,Private,131,654,74900,38,23,4,18,85,83558
+Not Ranked,University at Buffalo ,New York,Public,176,619,18156,30,30,13,1,54,55276
+Not Ranked,University of Arizona,Arizona,Public,139,622,31668,32,27,,5,46,77376
+Not Ranked,University of Colorado at Denver,Colorado,Public,33,574,31606,7,42,0,7,30,
+Not Ranked,University of Florida,Florida,Public,142,677,17132,23,32,4,11,85,76559
+Not Ranked,University of Georgia,Georgia,Public,140,,,,,,,,
+Not Ranked,University of Miami,Florida,Private,199,631,68626,32,36,19,21,49,62567
+Not Ranked,University of Pittsburgh,Pennsylvania,Public,234,626,36836,48,31,1.5,7,72,75454
+Not Ranked,University of Wisconsin-Madison,Wisconsin,Public,231,666,22957,13,30,6,9,84,88626
+Not Ranked,Wake Forest University,North Carolina,Private,149,629,70600,15,33,8,8,82,79392
